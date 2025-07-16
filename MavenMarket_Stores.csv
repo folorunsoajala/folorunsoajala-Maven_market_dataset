@@ -1,9 +1,0 @@
-store_id,region_id,store_type,store_name,store_street_address,store_city,store_state,store_country,store_phone,first_opened_date,last_remodel_date,total_sqft,grocery_sqft
-14,1,Small Grocery,Store 14,4365 Indigo Ct,San Francisco,CA,USA,135-555-4888,11/24/1957,01/07/1958,22478,15321
-15,18,Supermarket,Store 15,5006 Highland Drive,Seattle,WA,USA,893-555-1024,7/24/1969,10/19/1973,21215,13305
-16,87,Supermarket,Store 16,5922 La Salle Ct,Spokane,WA,USA,643-555-3645,8/23/1974,7/13/1977,30268,22063
-17,84,Deluxe Supermarket,Store 17,490 Risdon Road,Tacoma,WA,USA,855-555-5581,5/30/1970,6/23/1976,33858,22123
-18,25,Mid-Size Grocery,Store 18,6764 Glen Road,Hidalgo,Zacatecas,Mexico,528-555-8317,6/28/1969,8/30/1975,38382,30351
-19,5,Deluxe Supermarket,Store 19,6644 Sudance Drive,Vancouver,BC,Canada,862-555-7395,3/27/1977,10/25/1990,23112,16418
-,,,,,,,,,,,,
-,,,,,,,,,,,,
